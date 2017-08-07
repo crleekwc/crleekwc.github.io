@@ -6,24 +6,24 @@
     "email": "crlee@hawaii.edu",
     "phone": "808-388-2926",
     "website": "https://crleekwc.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "Currently I am a Student at the University of Hawaii at Manoa, with plans to graduate in the Fall 2017.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96734",
+      "city": "Kailua",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "crleekwc",
+        "url": "http://github.com/crleekwc"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "crleekwc",
+        "url": "https://www.linkedin.com/in/christopher-lee-3ba17454/"
       },
       {
         "network": "twitter",
@@ -32,8 +32,8 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "crleekwc",
+        "url": "http://instagram.com/crleekwc"
       }
     ]
   },

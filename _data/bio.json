@@ -27,8 +27,8 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "@crleekwc",
+        "url": "http://twitter.com/Crleekwc"
       },
       {
         "network": "instagram",
@@ -59,14 +59,14 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "11",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
@@ -95,8 +95,8 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa - Department of Art and Art History",
+      "position": "Computer Lab Supervisor",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",

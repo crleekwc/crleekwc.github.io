@@ -121,15 +121,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Docomomo Hawaii",
+      "website": "http://docomomo-hi.org",
+      "position": "Technical Consultant",
+      "startDate": "2017-06-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Consults with organization Leaders with technical initiatives.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Migration of website",
+        "Redesign of website"
       ]
     },
     {

@@ -39,19 +39,22 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Network Security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Web Design",
       "keywords": [
       ]
     }
@@ -61,11 +64,11 @@
       "name": "Languages and Frameworks",
       "level": "11",
       "keywords": [
+        "Assembly",
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
         "Python"
       ]
     },
@@ -73,22 +76,33 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Git/GitHub",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Brackets",
+        "Elasticsearch"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2014-08-25",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.2",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Graphic Design",
+      "studyType": "B.F.A",
+      "startDate": "2008-08-25",
+      "endDate": "2012-08-17",
+      "gpa": "3.34",
       "courses": [
       ]
     }
@@ -97,25 +111,57 @@
     {
       "company": "UH Manoa - Department of Art and Art History",
       "position": "Computer Lab Supervisor",
-      "website": "",
+      "website": "https://www.hawaii.edu/art/",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintenance and update of 20 computers in a lab",
+        "Create software packages and delpoyment of software",
+        "Manage a small team group of students to assist with printing."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Apple - Retail",
+      "position": "Technical Specialist",
+      "website": "https://apple.com",
+      "startDate": "2014-09-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ability to assess customers’ support needs when they arrive, then provide solutions or refer them to other team members",
+        "Flexibility to regularly rotate through different technical specialties and skill sets",
+        "Ability to thrive on change as products evolve"
+      ]
+    },
+    {
+      "company": "UH Manoa - School of Law",
+      "position": "Computer Lab Supervisor",
+      "website": "https://www.hawaii.edu/art/",
+      "startDate": "2008-08-25",
+      "endDate": "2016-12-15",
+      "summary": "",
+      "highlights": [
+        "Help faculty and students with technology needs",
+        "Maintenance and service of computers and printers",
+        "Creation of graphics, both print and web",
+        "Creation of websites: Wordpress/Open Source Cataloguing Software",
+        "Deploy software"
+      ]
+    },
+    {
+      "company": "UH Manoa - School of Architecture",
+      "position": "Technical Specialist",
+      "website": "https://apple.com",
+      "startDate": "2014-09-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Help faculty and students with technology needs",
+        "Maintenance and serivce of computers and printers",
+        "Setup and maintenance of server equipment",
+        "Creation of graphics, both print and web",
+        "Deploy Software"
       ]
     }
   ],
@@ -130,33 +176,20 @@
       "highlights": [
         "Migration of website"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Student Book Award",
+      "date": "2012",
+      "awarder": "UH Manoa - Department of Art and Art History",
+      "summary": "Awarded to student for outstanding work."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Outstanding Student work",
+      "date": "2012",
+      "awarder": "Hawaii 5-0 Design Achievement",
+      "summary": "My team won an outstanding student work award, for an exhibition design."
     }
   ],
   "references": [

@@ -135,21 +135,6 @@
       ]
     },
     {
-      "company": "UH Manoa - School of Law",
-      "position": "Computer Lab Supervisor",
-      "website": "https://www.hawaii.edu/art/",
-      "startDate": "2008-08-25",
-      "endDate": "2016-12-15",
-      "summary": "",
-      "highlights": [
-        "Help faculty and students with technology needs",
-        "Maintenance and service of computers and printers",
-        "Creation of graphics, both print and web",
-        "Creation of websites: Wordpress/Open Source Cataloguing Software",
-        "Deploy software"
-      ]
-    },
-    {
       "company": "UH Manoa - School of Architecture",
       "position": "Technical Specialist",
       "website": "https://apple.com",
@@ -162,6 +147,21 @@
         "Setup and maintenance of server equipment",
         "Creation of graphics, both print and web",
         "Deploy Software"
+      ]
+    },
+    {
+      "company": "UH Manoa - School of Law",
+      "position": "Computer Lab Supervisor",
+      "website": "https://www.hawaii.edu/art/",
+      "startDate": "2008-08-25",
+      "endDate": "2016-12-15",
+      "summary": "",
+      "highlights": [
+        "Help faculty and students with technology needs",
+        "Maintenance and service of computers and printers",
+        "Creation of graphics, both print and web",
+        "Creation of websites: Wordpress/Open Source Cataloguing Software",
+        "Deploy software"
       ]
     }
   ],

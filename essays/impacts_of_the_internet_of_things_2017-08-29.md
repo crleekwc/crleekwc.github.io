@@ -26,7 +26,7 @@ IoT devices can also be an issue for CISO and while not even being on the networ
 As more and more products become part of the Internet of Things more CISO will need to find ways to mitigate damage caused by attacks weather they be coming from within the network from an outside source.
 
 ## Sources
-[1] Schneier, Bruce. "The Internet of Things Is Wildly Insecure — And Often Unpatchable." Wired. Conde Nast, 06 Jan. 2014. Web. 07 Mar. 2017.\
+[1] Schneier, Bruce. "The Internet of Things Is Wildly Insecure — And Often Unpatchable." Wired. Conde Nast, 06 Jan. 2014. Web. 07 Mar. 2017.
 
 [2] Kumar, Mohit. "An Army of Million Hacked IoT Devices Almost Broke the Internet Today." The Hacker News. N.p., 22 Oct. 2016. Web. 07 Mar. 2017.
 

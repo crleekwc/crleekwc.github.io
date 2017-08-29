@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Impacts of Internet of Things
+title: Impact of the Internet of Things
 date: 2017-08-29
 labels:
   - Internet of things
   - Security
 ---
 
-## Impacts of the Internet of Things (IoT)
+## Impact of the Internet of Things (IoT)
 There is a demand for all of the products that we buy today to be "smarter". The fact that there are refrigerators out there that can keep track of what food is being stored within itself and put in an order for groceries when your food stores begin to get low is incredible, but it can come at a cost. Features like this can make us feel like we are already living in the future, automating the mundane.
 
 Many people would appreciate this ability for their products to do all of your mundane tasks for them, so they can more spend time with their families or interests. However all of these features do come at a cost. When you implement a device that is a part of the internet of things you are trusting that the device that you bought was created with security in mind. Also you are hoping that, that security gets updated as new vulnerabilities are discovered but that neither of those things are always the case. 

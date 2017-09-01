@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/pan_slide_1_square.jpg
-title: Presentation: Graphic Design Principles
-permalink: projects/Presentation:%20Graphic%20Design%20Principles
+title: Presentation-Graphic-Design-Principles
+permalink: projects/Presentation-Graphic-Design-Principles
 date: 2013
 labels:
   - Presentation

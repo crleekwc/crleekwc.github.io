@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/law_school_omeka_square.png
 title: UH-Law-School-Catalog-Site
 permalink: projects/Law-School-Catalog-Site
 date: 2016

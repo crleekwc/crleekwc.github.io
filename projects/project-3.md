@@ -1,17 +1,14 @@
-https://github.com/crleekwc/crleekwc.github.io/blob/master/images/
 ---
 layout: project
 type: project
 image: images/akamai_logo.png
 title: Page-Scraper
 permalink: projects/page-scraper
-date: 2016
+date: 2017
 labels:
+  - Python
+  - Shell Scripting
   - Javascript
-  - PHP
-  - MYSQL
-  - Linux
-  - Apache
 summary: Page scraping bot that collects data from multiple sites and aggregates the data in a single excel workbook.
 ---
 

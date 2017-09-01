@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pan%20slide%201.jpg
+image: images/pan_slide_1_square.jpg
 title: Micromouse
 permalink: projects/micromouse
 date: 2015

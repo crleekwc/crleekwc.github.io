@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Impact of the Internet of Things
+title: The Joys of Stress
 date: 2017-08-29
 labels:
-  - Internet of things
-  - Security
+  - Software Engeering
+  - Javascript
 ---
 
 Nervous, twisted stomach, sweaty palms; feeling anxious and yet excited. Lines of Javascript syntax popping in and out of my head, being primed for what is to come. The class has started --Oh crap the class has started!-- the professor is in the front telling us stuff about the upcoming challenge but I cannot hear him over the loud uproar of words of encourage mixed together with curse words. The programming challenged has started, I quickly regain my focus and hunker down. In the blink of an eye, I am outside of the classroom.

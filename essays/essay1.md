@@ -7,7 +7,6 @@ labels:
   - Software Engeering
   - Javascript
 ---
-## The Joys of Stress
 Nervous, twisted stomach, sweaty palms; feeling anxious and yet excited. Lines of Javascript syntax popping in and out of my head, being primed for what is to come. The class has started --Oh crap the class has started!-- the professor is in the front telling us stuff about the upcoming challenge but I cannot hear him over the loud uproar of words of encourage mixed together with curse words. The programming challenged has started, I quickly regain my focus and hunker down. In the blink of an eye, I am outside of the classroom.
 
 I have been in the situation countless times before for tests, quizzes, presentations, starting a new job, interviews, client meetings. All of these types of activities never fail to cause me  copious amounts of anxiety. The anxiety stems from wanting to do well, and knowing that in many of the situations you only have one chance to do it right. Once it is over there is no taking back what you did, you have to own it. 

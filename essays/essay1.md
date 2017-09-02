@@ -1,16 +1,34 @@
 ---
 layout: essay
 type: essay
-title: The Joys of Stress
-date: 2017-09-1
+title: Impact of the Internet of Things
+date: 2017-08-29
 labels:
-  - Software Engineering
-  - Javascript
+  - Internet of things
+  - Security
 ---
 
-## The Joys of Stress
-Nervous, twisted stomach, sweaty palms; feeling anxious and yet excited. Lines of Javascript syntax popping in and out of my head, being primed for what is to come. The class has started --Oh crap the class has started!-- the professor is in the front telling us stuff about the upcoming challenge but I cannot hear him over the loud uproar of words of encourage mixed together with curse words. The programming challenged has started, I quickly regain my focus and hunker down. In the blink of an eye, I am outside of the classroom.
+## Impact of the Internet of Things (IoT)
+There is a demand for all of the products that we buy today to be "smarter". The fact that there are refrigerators out there that can keep track of what food is being stored within itself and put in an order for groceries when your food stores begin to get low is incredible, but it can come at a cost. Features like this can make us feel like we are already living in the future, automating the mundane.
 
-I have been in the situation countless times before for tests, quizzes, presentations, starting a new job, interviews, client meetings. All of these types of activities never fail to cause me  copious amounts of anxiety. The anxiety stems from wanting to do well, and knowing that in many of the situations you only have one chance to do it right. Once it is over there is no taking back what you did, you have to own it. 
+Many people would appreciate this ability for their products to do all of your mundane tasks for them, so they can more spend time with their families or interests. However all of these features do come at a cost. When you implement a device that is a part of the internet of things you are trusting that the device that you bought was created with security in mind. Also you are hoping that, that security gets updated as new vulnerabilities are discovered but that neither of those things are always the case. 
 
-For me these challenges are good, I feel like being stressed leaves more of a lasting impression on me after everything is said and done. When you're working you’re being stressed all the time, but you still have to do your work and do it correctly. Having us go through situations like definitely help, as there are many lessons you can learn from these challenges.
+An IoT device is developed just like any other product, ultimately the development cost for said product can’t exceed a certain budget and lead to corners being cut or compromises being made in terms of security when it comes to IoT devices. Also do once a product is shipped updates pertaining to security rarely happen, the team that once worked on this product have moved on the next latest and greatest project the company is developing, there is really no incentive for a company to continue to invest in the security of a product after the ship date. If security update do occur they are usually sparse, and happen only when the is large pressure on the company to update their security. 
+
+"The problem with this process is that no one entity has any incentive, expertise, or even ability to patch the software once it’s shipped. The chip manufacturer is busy shipping the next version of the chip, and the ODM is busy upgrading its product to work with this next chip. Maintaining the older chips and products just isn’t a priority." [1]
+
+Where does this all fit in for the CISO who has to manage the security for a large company? Obviously having a large amount of devices that are unsecured could pose a huge risk for a company. Even if a CISO were to roll out the most sophisticated routers and firewalls having an unsecured device on the inside of a company’s network infrastructure would still be opening up the company to unnecessary risk, that device could potentially be the Trojan Horse that brings down Troy. 
+
+As a CISO you would have to update the security policy to prevent unauthorized devices or employees own devices from being add to the network infrastructure. A CISO cannot guarantee the security of devices not issued by the company, and those devices could pose a risk for all other devices on the network. One solution that would allow employees to bring in their own devices would be to create an entirely new network for just byod or IoT devices and segregate the networks.
+
+IoT devices can also be an issue for CISO and while not even being on the network infrastructure. Just last October there was the bot army of IoT devices that brought down the DNS servers of DynDNS a DNS service provider. A hacker used the Mirai bot to hijack and take over unsecured IoT devices, namely internet connected Cameras. There is some evidence that there are currently around 1.1 million IoT devices that are part of the Mirai bot army. The hacker then used the Mirai bot army to coordinate an attack that brought down sites such as Twitter, GitHub, Reddit, PayPal, Amazon, AirBnb, Netflix, Pinterest. [2] 
+
+As more and more products become part of the Internet of Things more CISO will need to find ways to mitigate damage caused by attacks weather they be coming from within the network from an outside source.
+
+## Sources
+[1] Schneier, Bruce. "The Internet of Things Is Wildly Insecure — And Often Unpatchable." Wired. Conde Nast, 06 Jan. 2014. Web. 07 Mar. 2017.
+
+[2] Kumar, Mohit. "An Army of Million Hacked IoT Devices Almost Broke the Internet Today." The Hacker News. N.p., 22 Oct. 2016. Web. 07 Mar. 2017.
+
+[3] Goss, Patrick. "The Internet of Things: everything you need to know." TechRadar. TechRadar The source for Tech Buying Advice, 04 Dec. 2013. Web. 07 Mar. 2017.
+I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.

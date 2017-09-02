@@ -7,7 +7,11 @@
 
 // Customize the background color
 body {
-  background-image: url("http://escbutton.com/images/git_background.png");
+  background-image: url("http://escbutton.com/images/git_background.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   // background-color: #f2f2f2;;
 }
 

@@ -109,6 +109,19 @@
   ],
   "work": [
     {
+      "company": "Hawaiian Airlines: Techmana",
+      "position": "Tech Consultant",
+      "website": "https://hawaiianairlines.com",
+      "startDate": "2017-06-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Collection and analysis website analytics data",
+        "Write scripts to automate collection of website analytics data by using API endpoints or scraping techniques",
+        "Collaborate with Dev Ops team to address attacks to the site or traffic anamolies"
+      ]
+    },
+    {
       "company": "UH Manoa - Department of Art and Art History",
       "position": "Computer Lab Supervisor",
       "website": "https://www.hawaii.edu/art/",

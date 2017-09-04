@@ -7,8 +7,6 @@ labels:
   - command line tools
   - linux
 ---
-
-## Curl
 The curl is a file transfer tool. It is a tool that is used in
 countless programs to as a internet transfer backbone. It is a useful
 for troubleshooting because it supports a plethora of protocols(like

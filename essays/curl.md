@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Curl
+title: Curling up and getting comfy with Curl
 date: 2017-08-29
 labels:
   - command line tools

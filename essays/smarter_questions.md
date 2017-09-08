@@ -13,10 +13,10 @@ It is so easy these days to get frustrated when you're looking for an answer to 
 There are definite ways to increase the likely hood that your question will get a reply; having a descriptive yet concise subjects/questions, show how you have already tried to approach the problem, show what research you already looked at.
 
 This link is a good example of how you can ask a smart question, the user has already done prior research in an effort to find the answer himself and it clearly and concisely writes the question. In the body he also adds more to his questions about what specifically he doesn't understand and wants more clarification on.
-https://stackoverflow.com/questions/630453/put-vs-post-in-rest
+(https://stackoverflow.com/questions/630453/put-vs-post-in-rest)
 
 While this post on the other hand doesn't have a clear or concise question, and the user didn't research similar questions that were similar to their question so the post is flagged as a duplicate.
-https://stackoverflow.com/questions/46087969/what-is-the-error-in-this-php-code
+(https://stackoverflow.com/questions/46087969/what-is-the-error-in-this-php-code)
 
 ## Source
-http://www.catb.org/esr/faqs/smart-questions.html
+(http://www.catb.org/esr/faqs/smart-questions.html)

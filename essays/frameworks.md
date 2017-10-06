@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Why frameworks? To make your life easier, DUH!
-date: 2017-10-5
+date: 2017-10-05
 labels:
   - Web Design
   - Frameworks

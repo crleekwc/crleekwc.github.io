@@ -6,7 +6,6 @@ date: 2017-10-5
 labels:
   - Web Design
   - Frameworks
-  - Semantic UI
 ---
 
 The first experience I had with writing code, was trying to create a website. I was a graphic design major at the time, and I really wanted to combine two things that I loved which was Art/Design with working with computers. I wanted to be able to do the things I loved as a profession, so I learned how to make websites. Around this time it was 2011, this was right as responsive design started to become more important. 

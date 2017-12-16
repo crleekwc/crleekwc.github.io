@@ -22,6 +22,7 @@ Some of the things that I worked on for this project was the landing page(Above,
 This experience for me was very valuable, I learned so much working these gentlemen. This was my first time working on a project of this scale with multiple people, prior to this I was always working on stuff by myself. I thought our team worked very well together and everyone very open to discussions and suggestions we should make along the way. Also through this experience I learned how Github can be such an incredible tool when trying to do group projects, how to push and pull things and revert changes. I can't imagine what it must have been like trying to develop software with other people without a tool like Github. Finally I am walking away from this experience with so much more appreciation for software engineering in gerneral.
 
 Below are some screen shots of our web application Looking for Game:
+
 Public Profile page
 <img class="ui fluid image" src="../images/merged_pub_profile.png">
 

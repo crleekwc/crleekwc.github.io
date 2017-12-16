@@ -16,9 +16,9 @@ summary: Looking for game is project that I worked in collaboration with Blake W
 
 ## Looking for Game
 
-Link: <a href="https://lookingforgame.meteorapp.com">Link Here</a>
+Link to our Web Application: <a href="https://lookingforgame.meteorapp.com">https://lookingforgame.meteorapp.com</a>
 
-Link: <a href="https://looking-for-game.github.io">Our Project page with lastest updates</a>
+Link to our project page: <a href="https://looking-for-game.github.io">https://looking-for-game.github.io</a>
 
 Looking for game is project that I worked in collaboration with Blake Wallick, Tallas Goo, and Victor Pawid. We had a vision for a web application that would be able to connect people locally to allow people to create game groups on our University's Campus. We are all college students and are keenly aware of the some of the trials and tribulations of going to school, we understand that if the you're to succeed as a student it helps if you have a core group of friends to help you along the way. Our intended goal for this platform is to help foster those relationships, we know how hard it can be to meet new people and saw that video games could help be a common ground to help people relate to one another. We are really excited how our project is turning out though we still have a long way to go before our vision can be satisfied. 
 

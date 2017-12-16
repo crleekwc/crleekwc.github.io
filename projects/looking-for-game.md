@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mock_up.png
 title: Looking-for-Game
-permalink: projects/page-scraper
+permalink: projects/looking-for-game
 date: 2017
 labels:
   - Javascript

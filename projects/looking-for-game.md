@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/mock_up.png
-title: Page-Scraper
+title: Looking for Game
 permalink: projects/page-scraper
 date: 2017
 labels:

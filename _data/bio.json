@@ -41,16 +41,25 @@
     {
       "name": "Network Security",
       "keywords": [
+        "TCP/IP",
+        "HTTP",
+        "Applications"
       ]
     },
     {
       "name": "Software Development",
       "keywords": [
+        "Web Applications",
+        "Web Development",
+        "Python Scripting"
       ]
     },
     {
       "name": "Graphic Design",
       "keywords": [
+        "Web Design",
+        "Layouts",
+        "Branding"
       ]
     },
     {
@@ -88,10 +97,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2017)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2014-08-25",
-      "endDate": "Present",
+      "endDate": "2017-12-14",
       "gpa": "3.2",
       "courses": [
       ]

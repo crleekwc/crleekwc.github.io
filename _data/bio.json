@@ -115,9 +115,21 @@
   ],
   "work": [
     {
-      "company": "Hawaiian Airlines: Techmana",
+      "company": "Praxis Inc.",
+      "position": "Software Engineer",
+      "website": "https://pxi.com",
+      "startDate": "2018-02-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Develop and maintain web applications",
+        "Collaborate with scientists to engineer solutions for flight software applications"
+      ]
+    },
+    {
+      "company": "Techmana: Hawaiian Airlines",
       "position": "Tech Consultant",
-      "website": "https://hawaiianairlines.com",
+      "website": "https://www.techmanahawaii.com",
       "startDate": "2017-06-01",
       "endDate": "2017-12-31",
       "summary": "",

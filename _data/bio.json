@@ -9,10 +9,10 @@
     "summary": "Currently I am working for Praxis Inc. developing software and engineering solutions for space flight programs.",
     "location": {
       "address": "",
-      "postalCode": "20001",
-      "city": "Washington",
+      "postalCode": "22202",
+      "city": "Arlington",
       "countryCode": "USA",
-      "region": "District of Columbia"
+      "region": "Virginia"
     },
     "profiles": [
       {
@@ -68,14 +68,12 @@
       "name": "Languages and Frameworks",
       "level": "11",
       "keywords": [
-        "Assembly",
-        "C",
-        "C++",
-        "Drupal 8",
-        "Java",
         "Javascript",
         "Python",
         "PHP",
+        "Ruby",
+        "Rails",
+        "PyQt5"
       ]
     },
     {
@@ -83,10 +81,14 @@
       "level": "",
       "keywords": [
         "Git/GitHub",
+        "GitLab",
+        "Nginx",
+        "Apahce2",
+        "Hadoop",
+        "PySpark",
         "MacOS",
         "Ubuntu",
         "Windows",
-        "Brackets",
         "Elasticsearch"
       ]
     }

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/akamai_logo.png
 title: Modernize/Redesign Space Sciences Web Applications
-permalink: projects/SECCHI.nrl.navy.mil
+permalink: projects/nrl_web_application_redesign
 date: 2018
 labels:
   - Drupal

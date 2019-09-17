@@ -42,8 +42,7 @@
       "name": "Network Security",
       "keywords": [
         "TCP/IP",
-        "HTTP",
-        "Applications"
+        "HTTP"
       ]
     },
     {
@@ -51,45 +50,52 @@
       "keywords": [
         "Web Applications",
         "Web Development",
-        "Python Scripting"
+        "Python Scripting",
+        "Applications"
       ]
     },
     {
-      "name": "Graphic Design",
+      "name": "Design",
       "keywords": [
         "Web Design",
         "Layouts",
-        "Branding"
+        "Templates",
+        "Industrial Design"
       ]
     },
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "11",
       "keywords": [
-        "Javascript",
         "Python",
-        "PHP",
         "Ruby",
-        "Rails",
-        "PyQt5"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "PHP",
+        "BASH",
+        "STOL",
+        "Galaxy Rec",
+        "IDL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Technologies Proficient In",
       "level": "",
       "keywords": [
-        "Git/GitHub",
-        "GitLab",
+        "PyQt5",
+        "Git",
+        "Pandas",
+        "Selenium",
+        "Beautiful Soup",
         "Nginx",
         "Apache2",
         "Hadoop",
+        "Rails",
         "PySpark",
-        "MacOS",
-        "Ubuntu",
-        "Windows",
-        "Elasticsearch"
+        "SunPy"
       ]
     }
   ],
@@ -100,7 +106,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2014-08-25",
       "endDate": "2017-12-14",
-      "gpa": "3.2",
+      "gpa": "3.45 (Departmental)",
       "courses": [
       ]
     },
@@ -110,7 +116,7 @@
       "studyType": "Bachelor of Fine Arts",
       "startDate": "2008-08-25",
       "endDate": "2012-08-17",
-      "gpa": "3.34",
+      "gpa": "3.16 (Departmental)",
       "courses": [
       ]
     }
@@ -118,27 +124,29 @@
   "work": [
     {
       "company": "Praxis Inc.",
-      "position": "Software Engineer",
+      "position": "Software Engineer (Security Clearance Required)",
       "website": "https://pxi.com",
       "startDate": "2018-02-05",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Develop and maintain web applications",
-        "Collaborate with scientists to engineer solutions for flight software applications"
+        "Develop various applications and scripts for the Space Sciences Division at the Naval Research Lab.",
+        "As part of a small development team, Redesign/Modernize Web Applications.",
+        "Develop unit tests for Space Flight Software, and collect results in test reports.",
+        "Create and maintain requirements documents for Space Flight Software.",
+        "Have experience creating applications using Docker."
       ]
     },
     {
       "company": "Techmana: Hawaiian Airlines",
-      "position": "Tech Consultant",
+      "position": "Tech Consultant (Internship)",
       "website": "https://www.techmanahawaii.com",
       "startDate": "2017-06-01",
       "endDate": "2017-12-31",
       "summary": "",
       "highlights": [
-        "Collection and analysis of website analytics data",
-        "Write scripts to automate collection of website analytics data by using API endpoints or scraping techniques",
-        "Collaborate with Dev Ops team to address attacks to the website and/or traffic anamolies"
+         "Create scripts to automate data collection, using Selenium, Beautiful Soup and Python Requests.",
+         "Investigate attacks to Hawaiian Airlines’ website and compile findings into daily reports."
       ]
     },
     {
@@ -149,9 +157,9 @@
       "endDate": "2017-12-15",
       "summary": "",
       "highlights": [
-        "Maintenance and update of 20 computers in a lab",
-        "Create software packages and delpoyment of software",
-        "Manage a small team of students to assist with printing and maintenance of the lab."
+         "Maintenance and service of lab technology.",
+         "Deploy software.",
+         "Manage team of student volunteers."
       ]
     },
     {
@@ -162,9 +170,8 @@
       "endDate": "2017-11-17",
       "summary": "",
       "highlights": [
-        "Ability to assess customers’ support needs when they arrive, then provide solutions or refer them to other team members",
-        "Flexibility to regularly rotate through different technical specialties and skill sets",
-        "Ability to thrive as products evolve"
+          "Troubleshoot and diagnose customers’ devices.",
+          "Build rapport with customers."
       ]
     },
     {
@@ -214,7 +221,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "Letter of recommendations and references available upon request",
       "reference": ""
     }
   ]

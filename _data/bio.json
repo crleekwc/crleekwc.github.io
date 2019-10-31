@@ -189,18 +189,6 @@
       ]
     }
   ],
-  "Self-Directed/Personal Projects": [
-    {
-      "title": "Redesigned Eki Cyclery Website(https://ekicyclery.com)",
-      "date": "2019",
-      "summary": "Redesigned web site for a small bike shop I used to work at in college. Created site using Wordpress so that the owners can easily update the site  on their own."
-    },
-    {
-      "title": "3D Printing",
-      "date": "2019",
-      "summary": "Learned how to program firmware, flash firmware, and basic wiring skills from building and extending my Ender 3 3D printer kit. Use 3D printer to print designs I created using Fusion 360, terrain for board games, and other various practical 3D printable designs."
-    }
-  ],
   "references": [
     {
       "name": "Letter of recommendations and references available upon request",

@@ -6,7 +6,7 @@
     "email": "crleekwc@gmail.com",
     "phone": "808-388-2926",
     "website": "https://crleekwc.github.io",
-    "summary": "Working at the Naval Research Lab Space Sciences Division, supporting and testing flight software and developing ground software.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "22202",
@@ -66,7 +66,7 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "Proficient Languages",
       "level": "11",
       "keywords": [
         "Python",
@@ -75,10 +75,15 @@
         "HTML",
         "CSS",
         "PHP",
-        "BASH",
-        "STOL",
-        "Galaxy Rec",
-        "IDL"
+        "BASH"
+      ]
+    },
+    {
+      "name": "Familiar Languages",
+      "level": "11",
+      "keywords": [
+        "Ruby",
+        "Dart"
       ]
     },
     {
@@ -130,11 +135,9 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Develop various applications and scripts for the Space Sciences Division at the Naval Research Lab.",
-        "As part of a small development team, Redesign/Modernize Web Applications.",
-        "Develop unit tests for Space Flight Software, and collect results in test reports.",
-        "Create and maintain requirements documents for Space Flight Software.",
-        "Have experience creating applications using Docker."
+        "Designed, developed, and operationalized a distributed maritime surveillance software that provided a user-interface, real time data distribution, and low-level interface for an airplane mounted radar, which is currently deployed on three aircrafts and operating across 15 South Pacific island countries as part of a $64 million program.",
+        "Developed mission planning software to enable users to efficiently plan observation sequences for a scientific instrument(Wide-Field Imager) on NASA's $1.5 billion Parker Solar Probe satellite. Mission planning software reduced the amount of time spent planning observation timelines by 80%. ",
+        "Designed/modernized applications for three operational spacecrafts to improve cybersecurity, usability, and functionality creating a user-centric application for query and analysis of scientific data."
       ]
     },
     {
@@ -145,8 +148,7 @@
       "endDate": "2017-12-31",
       "summary": "",
       "highlights": [
-         "Create scripts to automate data collection, using Selenium, Beautiful Soup and Python Requests.",
-         "Investigate attacks to Hawaiian Airlines’ website and compile findings into daily reports."
+         "Developed Python scripts to automate log mining, packet analysis, and other analytics to visualize cyber security patterns for executive analysis."
       ]
     },
     {
@@ -157,9 +159,7 @@
       "endDate": "2017-12-15",
       "summary": "",
       "highlights": [
-         "Maintenance and service of lab technology.",
-         "Deploy software.",
-         "Manage team of student volunteers."
+         "Managed a departmental technology lab and team of 15 student volunteers, while automated all aspects of system administration for efficiency."
       ]
     },
     {
@@ -170,8 +170,7 @@
       "endDate": "2017-11-17",
       "summary": "",
       "highlights": [
-          "Troubleshoot and diagnose customers’ devices.",
-          "Build rapport with customers."
+          "Achieved top performing Genius Bar rating for customer service, satisfaction, and technical excellence."
       ]
     },
     {
@@ -188,35 +187,18 @@
         "Creation of graphics, both print and web",
         "Deploy Software"
       ]
-    },
-    {
-      "company": "UH Manoa - School of Law",
-      "position": "Lab Technician",
-      "website": "https://law.hawaii.edu/",
-      "startDate": "2008-08-25",
-      "endDate": "2016-12-15",
-      "summary": "",
-      "highlights": [
-        "Help faculty and students with technology needs",
-        "Maintenance and service of computers and printers",
-        "Creation of graphics, both print and web",
-        "Creation of websites: Wordpress/Open Source Cataloguing Software",
-        "Deploy software"
-      ]
     }
   ],
-  "awards": [
+  "Self-Directed/Personal Projects": [
     {
-      "title": "Student Book Award",
-      "date": "2012",
-      "awarder": "UH Manoa - Department of Art and Art History",
-      "summary": "Awarded to student for outstanding work."
+      "title": "Redesigned Eki Cyclery Website(https://ekicyclery.com)",
+      "date": "2019",
+      "summary": "Redesigned web site for a small bike shop I used to work at in college. Created site using Wordpress so that the owners can easily update the site  on their own."
     },
     {
-      "title": "Outstanding Student work",
-      "date": "2012",
-      "awarder": "Hawaii 5-0 Design Achievement",
-      "summary": "My team won an outstanding student work award, for an exhibition design."
+      "title": "3D Printing",
+      "date": "2019",
+      "summary": "Learned how to program firmware, flash firmware, and basic wiring skills from building and extending my Ender 3 3D printer kit. Use 3D printer to print designs I created using Fusion 360, terrain for board games, and other various practical 3D printable designs."
     }
   ],
   "references": [

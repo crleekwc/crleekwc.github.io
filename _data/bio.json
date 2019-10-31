@@ -48,10 +48,8 @@
     {
       "name": "Software Development",
       "keywords": [
-        "Web Applications",
         "Web Development",
         "Python Scripting",
-        "Applications"
       ]
     },
     {
@@ -96,11 +94,7 @@
         "Selenium",
         "Beautiful Soup",
         "Nginx",
-        "Apache2",
-        "Hadoop",
-        "Rails",
-        "PySpark",
-        "SunPy"
+        "Apache2"
       ]
     }
   ],
